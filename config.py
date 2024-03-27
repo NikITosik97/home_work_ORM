@@ -1,0 +1,6 @@
+CONNECTION_DRIVER = 'postgresql'
+LOGIN = 'postgres'
+PASSWORD = 'postgres'
+SERVER_NAME = 'localhost'
+PORT = '5432'
+NAME_BD = 'databook'
